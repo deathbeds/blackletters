@@ -13,6 +13,6 @@ html_static_path = ['_static']
 source_suffix = [".rst", ".md", ".ipynb"]
 
 nbsphinx_execute = 'never'
-
+master_doc = 'readme'
 def setup(app):
     app.add_css_file("css/custom.css")
