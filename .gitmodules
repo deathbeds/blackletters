@@ -28,3 +28,24 @@
 [submodule "deathbeds/836bb8775f351b579b7204eccc15971f"]
 	path = deathbeds/836bb8775f351b579b7204eccc15971f
 	url = https://gist.github.com/bollwyvl/836bb8775f351b579b7204eccc15971f
+[submodule "deathbeds/bd56b58ba0a078534272043327c52bd1"]
+	path = deathbeds/bd56b58ba0a078534272043327c52bd1
+	url = https://gist.github.com/bollwyvl/bd56b58ba0a078534272043327c52bd1
+[submodule "deathbeds/cee1da2fd953c48457b5959bbab7c587"]
+	path = deathbeds/cee1da2fd953c48457b5959bbab7c587
+	url = https://gist.github.com/tonyfast/cee1da2fd953c48457b5959bbab7c587
+[submodule "deathbeds/9113380c60353bdfa870cfe4ff5eb0b2"]
+	path = deathbeds/9113380c60353bdfa870cfe4ff5eb0b2
+	url = https://gist.github.com/bollwyvl/9113380c60353bdfa870cfe4ff5eb0b2
+[submodule "deathbeds/de281a6e21e7a21a1e927b3d8f39d9a2"]
+	path = deathbeds/de281a6e21e7a21a1e927b3d8f39d9a2
+	url = https://gist.github.com/tonyfast/de281a6e21e7a21a1e927b3d8f39d9a2
+[submodule "deathbeds/47d06961f9d39f3fba6e76d2e7417ab3"]
+	path = deathbeds/47d06961f9d39f3fba6e76d2e7417ab3
+	url = https://gist.github.com/bollwyvl/47d06961f9d39f3fba6e76d2e7417ab3
+[submodule "deathbeds/f5dbd12fd4d3b2b5479c7db2f9932554"]
+	path = deathbeds/f5dbd12fd4d3b2b5479c7db2f9932554
+	url = https://gist.github.com/tonyfast/f5dbd12fd4d3b2b5479c7db2f9932554
+[submodule "deathbeds/e2e574e6fa3dcc4a4557f486d8bf0d70"]
+	path = deathbeds/e2e574e6fa3dcc4a4557f486d8bf0d70
+	url = https://gist.github.com/tonyfast/e2e574e6fa3dcc4a4557f486d8bf0d70
