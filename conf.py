@@ -11,3 +11,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'alabaster'
 html_static_path = ['_static']
 source_suffix = [".rst", ".md", ".ipynb"]
+
+
+def setup(app):
+    app.add_css_file("css/custom.css")
+    __import__("subprocess").check_call("git submodule update --remote".split())
